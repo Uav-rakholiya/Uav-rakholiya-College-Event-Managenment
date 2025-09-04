@@ -1,0 +1,14 @@
+ADMIN
+
+ID: minansh07@gmail.com
+Password: 12345
+
+Path: clg/admin/login.php
+
+USER
+
+ID: sumitg2004@gmail.com
+Password: 12345
+
+Path: clg/login.php
+
